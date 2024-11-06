@@ -49,7 +49,7 @@ The trends and patterns, even down to the outliers, became a meaningful snapshot
 
 Next, I examined correlations among key metrics to uncover relationships between them. This analysis revealed how different activity measures, such as step counts and calories burned, were connected, and helped me understand the overall consistency of my daily routines.
 
-![Correlation Matrix](graphs/Correlation Matrix.png)
+![Correlation Matrix](graphs/Correlation_Matrix.png)
 
 The correlation matrix highlighted how strongly walk step count was related to total step count and calories burned, reinforcing the idea that consistent walking played a central role in my activity levels.
 

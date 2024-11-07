@@ -57,7 +57,7 @@ The correlation matrix highlighted how strongly walk step count was related to t
 
 #### Weekly Trends
 
-To explore my activity on a more granular level, I resampled my data to examine weekly trends. This analysis highlights clear fluctuations in my activity, particularly during key life changes like my pregnancy and postpartum period. As seen in the plot, my activity levels dropped significantly over the last three months, marking a noticeable decline compared to previous months. This shift reflects the natural adjustment period following my daughter’s birth, where both physical demands and lifestyle changes impacted my daily activity.
+To explore my activity on a more granular level, I resampled my data to examine weekly trends. This analysis highlights clear fluctuations in my activity, particularly during key life changes like my pregnancy and postpartum period. As seen in the plot, my activity levels dropped significantly from December 2023 to March 2024, showing a noticeable decline compared to both the months before and those that followed. This decrease reflects the natural adjustment period after my daughter’s birth, during which physical demands and lifestyle changes visibly impacted my daily activity levels.
 
 ![Steps Trend](graphs/steps_trend.png)
 

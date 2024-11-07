@@ -57,11 +57,10 @@ The correlation matrix highlighted how strongly walk step count was related to t
 
 #### Weekly Trends
 
-To explore my activity on a more granular level, I resampled my data to examine weekly trends. This analysis showed clear fluctuations in my activity, especially around significant life changes such as my pregnancy and postpartum period.
+To explore my activity on a more granular level, I resampled my data to examine weekly trends. This analysis highlights clear fluctuations in my activity, particularly during key life changes like my pregnancy and postpartum period. As seen in the plot, my activity levels dropped significantly over the last three months, marking a noticeable decline compared to previous months. This shift reflects the natural adjustment period following my daughter’s birth, where both physical demands and lifestyle changes impacted my daily activity.
 
 ![Steps Trend](graphs/steps_trend.png)
 
-The plot illustrates weekly averages of walk and run steps, highlighting how my routine adjusted with time.
 
 #### Activity by Month
 
@@ -71,17 +70,14 @@ A monthly breakdown of my walking steps revealed patterns tied to significant mo
 
 #### Activity by Day of the Week
 
-Interestingly, my activity also varied by day of the week, with some days being more active due to personal routines or other life factors.
+Interestingly, my activity also varied by day of the week,The plot shows noticeably lower activity on Fridays and Saturdays, which aligns with my days off. This suggests that my activity tends to increase on workdays, while I tend to be less active on weekends, likely due to the more relaxed routine during my time off.
 
 ![Activity by Days](graphs/Activity_bydays.png)
 
-This bar plot shows the average walk steps per day of the week, highlighting trends in my walking habits across different days.
-
 ### Reflecting on Activity Levels and Health Journey
 
-One surprise in my data was the way small, steady activity adds up. The days with moderate walks contributed significantly to my well-being, showing that it doesn’t take extreme effort to maintain a healthy rhythm, even with shifting routines. The “story” hidden in my step counts and distances taught me that consistency, not intensity, kept me grounded. And it’s something I hope to carry forward, balancing activity with the joys and responsibilities of motherhood.
+This analysis offered meaningful insights into my recent life journey, capturing the impact of significant events over the past months. It’s a great example of how data, even simple records and numbers, can tell a powerful story. By filling in the gaps with context, the data provides a clearer, more complete picture of how my daily habits and routines have evolved.
 
 ## Conclusion: Insights Gained and Next Steps
 
-After analyzing patterns, I chose to focus on fewer datasets to refine insights and avoid redundancy. This helped me zero in on my activity without overcomplicating the analysis. Moving forward, I aim to track these trends over the long term, curious to see how my activity evolves alongside my new role as a mother.
-
+This analysis taught me the value of tracking additional metrics in Samsung Health to enrich future data analysis. For example, I’ve now started recording my sleep duration, which I hadn’t tracked before, and plan to include other metrics like exercise, water intake, and food choices. Reflecting on this experience, I realize that having more comprehensive data could have provided a clearer picture of how my health and lifestyle evolved over time. This has been a valuable lesson: data not only helps us understand our routines and the factors that impact us but also empowers us to make better-informed decisions for managing our lives.
